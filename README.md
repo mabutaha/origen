@@ -7,7 +7,8 @@ The architecture is a BERT-style encoder, it uses 4 layers, 4 attention heads, a
 
 It is highly accurate on known models on a closed set, and even generalizes to knowing the providers of models it has never seen (if the provider is supported). Open-set detection is still improving.
 
-A demo is currently available at: http://origen.mabutaha.me. 
+A demo is currently available at: http://origen.mabutaha.me
+
 This repository will be updated with the source code and weights in the future. 
 
 *This tool accompanies a talk presented at BSides Amman (September 2026).*
